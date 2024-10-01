@@ -1,0 +1,15 @@
+node_modules/
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore IDE-specific settings (optional)
+.idea/
+.vscode/
+
+# System-specific files
+.DS_Store
+Thumbs.db
